@@ -1,3 +1,6 @@
+// Initialize wow.js
+new WOW().init();
+
 // When #flip-btn is clicked
 $('#flip-btn').click(function() {
   // Toggle the .flipped class on the card

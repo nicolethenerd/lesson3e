@@ -207,9 +207,13 @@ textarea {
         }
     }
 
-    .box {
+    /*.box {
         animation: move 5s infinite alternate;
-    }
+    }*/
+
+    /*.box {
+        animation: wobble 5s infinite;
+    }*/
 
 
 
